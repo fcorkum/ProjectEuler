@@ -1,6 +1,12 @@
 # ProjectEuler
 This is a repository for solving various Project Euler problems.
 
+The 2 problems are:
+
+https://projecteuler.net/problem=1
+
+https://projecteuler.net/problem=2
+
 Programming Test
 
 You should include with your solution:
