@@ -5,10 +5,10 @@ public class ProjectEulerProblems {
 	public static void main(String[] args) {
 
 		int sum = sumMultiplesOfThreeOrFive(1000);
-		System.out.println("Problem 1; sum of multiples of 3 or 5 = " + sum);
+		System.out.println("Problem 1: sum of multiples of 3 or 5, up 1K = " + sum);
 
 		int sumFib = sumEvenFibonacci(4000000);
-		System.out.println("Problem 2: sum of even Fibonacci numbers up to 4M = " + sumFib);
+		System.out.println("Problem 2: sum of even Fibonacci numbers, up to 4M = " + sumFib);
 
 	}
 
