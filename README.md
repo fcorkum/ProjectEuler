@@ -24,7 +24,7 @@ You should include with your solution:
 
 # A description of the process you followed in solving the problem
 
--- 1. Start with determining the goal for each solution:
+1. Start with determining the goal for each solution:
 
    a.) Reasoned out the method for summing up the multiples problem 1. 
 
@@ -46,8 +46,8 @@ You should include with your solution:
 
 # What reference sources you used, if any
 
- -- Stack Overflow for reference as well as various sources for git related snags.
+ Stack Overflow for reference as well as various sources for git related snags.
 
 # How much time you spent on the exercise
 
- -- Approximately 3 hours
+ Approximately 3 hours
