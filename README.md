@@ -20,6 +20,7 @@ You should include with your solution:
 # Why you chose the problems you did
 
   problem 1.) I liked that fact that both an iterative solution and a math based summation formula could work.
+  
   problem 2.) I liked the fact that I could use some caching optimization to solve it rather than recursively or inefficiently.
 
 # A description of the process you followed in solving the problem
