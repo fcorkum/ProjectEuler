@@ -26,15 +26,20 @@ Problem 2.) I liked the fact that I could use some caching optimization to solve
 - A description of the process you followed in solving the problem
 
 1.) How to approach the goal for each solution:
- problem 1.) Reasoning out the method for summing up the multiples problem 1, 
- problem 2.) Summing the Fibonacci sequencing for problem 2.
+ - problem 1.) Reasoning out the method for summing up the multiples problem 1, 
+ - problem 2.) Summing the Fibonacci sequencing for problem 2.
+
 2.) Understand what the solution required:
- problem 1.) "Find the sum of all the multiples of 3 or 5 below 1000"
- problem 2.) "Find the sum of the even-valued terms" 
-2.) Determined inputs and outputs / variables
-3.) Coded and debugged
-4.) Assure the solutions are correct and accurate by comparing against a math based calculation of the answers.
-5.) Commit the code
+ - problem 1.) "Find the sum of all the multiples of 3 or 5 below 1000"
+ - problem 2.) "Find the sum of the even-valued terms" 
+
+3.) Determined inputs and outputs / variables
+
+4.) Coded and debugged
+
+5.) Assure the solutions are correct and accurate by comparing against a math based calculation of the answers.
+
+6.) Commit the code
 
 - What reference sources you used, if any
 
